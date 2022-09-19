@@ -1,4 +1,4 @@
-# Flastorm's Terms and Service
+# Flastorm's Privacy Policy
 
 Flastorm's sole purpose is to give you a nice discord bot experience.
 
